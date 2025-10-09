@@ -11,7 +11,7 @@ _Interactive learning scripts for  Geostatistics._
 Esse repositório contém scripts Jupyter Notebook, que podem ser utilizados com o [JupyterHub UFSC](https://notebooks.inf.ufsc.br/) ou o [Google Colab](https://colab.research.google.com/).\
 _This repository contains Jupyter Notebook scripts that can be used with [Google Colab](https://colab.research.google.com/)._
 
-**Scripts em Geoestatatística _(Geostatistics scripts)_**
+**Scripts em Geoestatatística _(Scripts in Geostatistics)_**
 - Histograma - impacto da largura do bin _(Histogram - bin width impact)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/BinWidthImpact.ipynb)
 - Análise Exploratória de Dados - Jura dataset _(Exploratory Data Analysis - Juta dataset)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/EDA_JuraDataset.ipynb)
 - Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
