@@ -15,7 +15,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
 - Histograma - impacto da largura do bin _(Histogram - bin width impact)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/BinWidthImpact.ipynb)
 - Análise Exploratória de Dados - Jura dataset _(Exploratory Data Analysis - Juta dataset)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/EDA_JuraDataset.ipynb)
 - Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
-- Variograma Experimental - Exemplo_(Experimental Variogram - Example)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/ExpVariogram_Example.ipynb)
+- Variograma Experimental - Exemplo _(Experimental Variogram - Example)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/ExpVariogram_Example.ipynb)
 - Variograma Teórico - Modelos Permissivos _(Theoretical Variogram - Permissible Models)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/PermissibleModels_TheoVariogram.ipynb)
 
 
