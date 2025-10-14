@@ -17,6 +17,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
 - Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
 - Variograma Experimental - Exemplo _(Experimental Variogram - Example)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/ExpVariogram_Example.ipynb)
 - Variograma Teórico - Modelos Permissivos _(Theoretical Variogram - Permissible Models)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/PermissibleModels_TheoVariogram.ipynb)
+- Ordinary Kriging usando PyKrige - Elevação do Alasca _(Ordinary Kriging with PyKrige - Alaska elevation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/OK_PyKrige-Alaska.ipynb)
 
 
 
